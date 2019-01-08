@@ -2,9 +2,9 @@
 
 ## Description
 
-using basic auth to authenticate and use express-session to manage sessions with http cookie
+Projeto em Nest js usando passport para simples autenticação e swagger para apis 
 
-Source code for NestJS Basic Auth and Sessions Tutorial http://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/
+http://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/
 
 ## Installation
 
