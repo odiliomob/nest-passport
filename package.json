@@ -1,7 +1,7 @@
 {
-  "name": "nestjs-session-tutorial",
+  "name": "nestjs-session",
   "version": "1.0.0",
-  "description": "finished-source-code-for-nest-js-sessions-tutorial",
+  "description": "NestJs",
   "author": "anton-sukhovatkin",
   "license": "MIT",
   "scripts": {
